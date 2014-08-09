@@ -1,0 +1,12 @@
+.userInfoWidget {
+    margin-bottom: 10px!important;
+}
+    .userInfoWidgetStaticText {
+        display: block;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+    .userInfoWidgetDynamicText {
+        color: red;
+        font-size: 11px;
+    }
